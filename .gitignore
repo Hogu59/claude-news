@@ -15,6 +15,7 @@ dist/
 .agent/
 .agents/
 .claude/skills/
+.claude/scheduled_tasks.lock
 .kiro/
 skills-lock.json
 scripts/
