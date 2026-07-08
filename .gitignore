@@ -6,6 +6,8 @@ docs/
 publish.sh
 generate.sh
 notify.sh
+run-briefing.sh
+run-notify.sh
 logs/
 node_modules/
 dist/
